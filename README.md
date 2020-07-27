@@ -6,3 +6,4 @@
 4. Overall this process is done based on the data we need since it would be a time consuming task to look at all the data and to try and sort everything out. 
 5. The try-except method takes care of the unforseen errors that we may not see during the initial investigating process.
 6. This method is after all based on the individual as each person may look at data differently. While some may think that they could fix the data others may think that the data just needs to be dropped. 
+7. There were some processes that had to be removed since the whole thing was automated so we are assuming that the dataset does not have too many irregularities. These processes including looking at the datastructure and identifying what must be done to the data. We just mostly assumed that the wikipedia data had columns that needed to be dropped and had to be cleaned and the csv files were fairly clean. 
